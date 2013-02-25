@@ -1,0 +1,1 @@
+Small module that intercepts and tracks setTimeout and setInterval calls. Allows to debug problems with a graceful shutdown of a node process that is waiting on timers.

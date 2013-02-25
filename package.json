@@ -1,0 +1,8 @@
+{
+  "name": "timers-debug",
+  "version": "0.1.0",
+  "main": "timers-debug",
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
