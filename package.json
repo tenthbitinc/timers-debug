@@ -6,7 +6,6 @@
     "node": ">= 0.8.0"
   },
   "readmeFilename": "README.md",
-  "gitHead": "933b1a17e2e5ac7212b10acf531df36aa5168f47",
   "description": "Small module that intercepts and tracks setTimeout and setInterval calls. Allows to debug problems with a graceful shutdown of a node process that is waiting on timers.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
